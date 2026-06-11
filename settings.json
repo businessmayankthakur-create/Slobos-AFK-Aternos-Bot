@@ -2,12 +2,12 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "noob afk bot",
-    "password": "",
+    "password": "123123123",
     "type": "offline"
   },
   "server": {
-    "ip": "NotSlimySlime_.aternos.me",
-    "port": 56537,
+    "ip": "endermansmp.mcsh.io",
+    "port": 25565,
     "version": "",
     "try-creative": false
   },
